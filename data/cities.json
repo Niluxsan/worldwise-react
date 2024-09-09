@@ -1,0 +1,92 @@
+{
+  "cities": [
+    {
+      "id": "759d",
+      "cityName": "Colombo",
+      "country": "Sri Lanka",
+      "date": "2024-07-05T11:56:17.146Z",
+      "notes": "",
+      "position": {
+        "lat": "6.9356288196089455",
+        "lng": "79.86210823059083"
+      }
+    },
+    {
+      "id": "405f",
+      "cityName": "Kelaniya",
+      "country": "Sri Lanka",
+      "date": "2024-07-05T11:56:34.429Z",
+      "notes": "",
+      "position": {
+        "lat": "6.960166533552673",
+        "lng": "79.90167617797853"
+      }
+    },
+    {
+      "id": "3cdc",
+      "cityName": "Tremp",
+      "country": "Spain",
+      "date": "2024-07-05T12:01:15.491Z",
+      "notes": "",
+      "position": {
+        "lat": "42.13896840458089",
+        "lng": "0.7580566406250001"
+      }
+    },
+    {
+      "id": "1394",
+      "cityName": "Sandilipay",
+      "country": "Sri Lanka",
+      "date": "2024-08-20T11:13:02.965Z",
+      "notes": "",
+      "position": {
+        "lat": "9.779437952385068",
+        "lng": "79.98596191406251"
+      }
+    },
+    {
+      "id": "f849",
+      "cityName": "Kopay South",
+      "country": "Sri Lanka",
+      "date": "2024-08-20T11:13:19.682Z",
+      "notes": "",
+      "position": {
+        "lat": "9.774024565864734",
+        "lng": "80.11985778808594"
+      }
+    },
+    {
+      "id": "95d7",
+      "cityName": "Sandilipay",
+      "country": "Sri Lanka",
+      "date": "2024-08-20T11:13:22.307Z",
+      "notes": "",
+      "position": {
+        "lat": "9.719885862465183",
+        "lng": "79.99763488769533"
+      }
+    },
+    {
+      "id": "3ca6",
+      "cityName": "Sandilipay",
+      "country": "Sri Lanka",
+      "date": "2024-08-20T11:16:59.450Z",
+      "notes": "",
+      "position": {
+        "lat": "9.700935243407013",
+        "lng": "79.97634887695314"
+      }
+    },
+    {
+      "id": "402b",
+      "cityName": "Nallur",
+      "country": "Sri Lanka",
+      "date": "2024-08-20T11:17:02.744Z",
+      "notes": "",
+      "position": {
+        "lat": "9.702288894614382",
+        "lng": "80.02716064453126"
+      }
+    }
+  ]
+}
